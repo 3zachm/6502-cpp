@@ -1,0 +1,7 @@
+cmake-build-debug/
+/out
+bin/
+build/
+.idea/
+/.vs
+CMakeSettings.json
